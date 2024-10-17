@@ -1,8 +1,8 @@
 {
+  "homepage": "https://datcosmi.github.io/proyecto_alumnos/",
   "name": "paper-dashboard-react",
   "version": "1.3.0",
   "private": true,
-
   "dependencies": {
     "@babel/core": "7.18.6",
     "bootstrap": "4.6.0",
